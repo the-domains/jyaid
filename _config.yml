@@ -1,4 +1,4 @@
-layout_spectrum: 0.3979592
+typography_spectrum: 0.7397255
 color:
   saturation: 0.9426514
   lightness: 0.543713
@@ -10,5 +10,5 @@ color:
     - '#656C73'
     - '#A4A9AC'
   rhythmicContrast: 0.4020334
-typography_spectrum: 0.7397255
+layout_spectrum: 0.3979592
 name: Jyaid
