@@ -1,15 +1,27 @@
-typography_spectrum: 0.7397255
-color:
-  saturation: 0.9426514
-  lightness: 0.543713
-  brandStrength: 0.9002434
-  brandColors:
-    - '#FFFFFF'
-    - '#CFD1D3'
-    - '#967846'
-    - '#656C73'
-    - '#A4A9AC'
-  rhythmicContrast: 0.4020334
 layout_spectrum: 0.3979592
 name: Jyaid
 title: ''
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.7397255
+color:
+  brandStrength: 0.3836425
+  lightness: 0.8423272
+  saturation: 0.2284992
+  rhythmicContrast: 0.5033727
+  brandColors:
+    - '#FFFFFF'
+    - '#CACCCF'
+    - '#947542'
+    - '#918F90'
+    - '#A7ABB0'
